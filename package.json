@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/nalezeha/prueba#readme",
   "dependencies": {
+    "dotenv": "^17.4.2",
     "pg": "^8.0.0"
   }
 }
